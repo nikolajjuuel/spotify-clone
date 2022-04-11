@@ -9,7 +9,7 @@ in progress ....
 
 ### Next Steps
 
-# Get songs to play with player
+Get songs to play with player
 
 ## Getting Started
 
