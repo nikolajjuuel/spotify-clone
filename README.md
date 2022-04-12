@@ -1,6 +1,22 @@
 # Spotify Clone built with Next.JS
 
-https://spotify-clone-nikolajjuuel.vercel.app/signup
+Link to project https://spotify-clone-nikolajjuuel.vercel.app/signin
+<br />
+<br />
+
+Login using the credentials below or signup here https://spotify-clone-nikolajjuuel.vercel.app/signin : 
+```
+email: user@test.com
+password: password 
+```
+
+- password are encrypted using bcrypt
+
+> Signed in users can view playlists and play songs
+
+
+
+
 
 ### Updates
 
