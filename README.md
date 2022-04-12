@@ -1,6 +1,6 @@
 # Spotify Clone built with Next.JS
 
-in progress ....
+https://spotify-clone-nikolajjuuel.vercel.app/signup
 
 ### Updates
 
@@ -9,7 +9,7 @@ in progress ....
 
 ### Next Steps
 
-Get songs to play with player
+create playlist 
 
 ## Getting Started
 
